@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GoldsunFocus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GoldsunPlay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HiRangDong" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jekyll-readthedocs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jekyll-theme-rtd" vcs="Git" />
+  </component>
+</project>
